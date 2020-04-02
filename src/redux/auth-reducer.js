@@ -18,7 +18,7 @@ const authReducer = (state = initialState, action) => {
                 ...state,
                 ...action.data,
                 isAuth: true
-            }
+            };
 
         default:
             return state;
@@ -36,6 +36,6 @@ export const getAuthUserData = () => (dispatch) => {
                 dispatch(setAuthUserData(id, email, login))
             }
         })
-}
+};
 
 export default authReducer;
