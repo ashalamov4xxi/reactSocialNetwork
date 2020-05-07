@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactSocialNetwork/static/css/main.4de43198.chunk.css",
+    "main.js": "/reactSocialNetwork/static/js/main.8c761141.chunk.js",
+    "main.js.map": "/reactSocialNetwork/static/js/main.8c761141.chunk.js.map",
+    "runtime~main.js": "/reactSocialNetwork/static/js/runtime~main.199dcafe.js",
+    "runtime~main.js.map": "/reactSocialNetwork/static/js/runtime~main.199dcafe.js.map",
+    "static/js/2.43c82515.chunk.js": "/reactSocialNetwork/static/js/2.43c82515.chunk.js",
+    "static/js/2.43c82515.chunk.js.map": "/reactSocialNetwork/static/js/2.43c82515.chunk.js.map",
+    "index.html": "/reactSocialNetwork/index.html",
+    "precache-manifest.7a0272677b52dc23ff62a734fa02a326.js": "/reactSocialNetwork/precache-manifest.7a0272677b52dc23ff62a734fa02a326.js",
+    "service-worker.js": "/reactSocialNetwork/service-worker.js",
+    "static/css/main.4de43198.chunk.css.map": "/reactSocialNetwork/static/css/main.4de43198.chunk.css.map",
+    "static/media/user.jpg": "/reactSocialNetwork/static/media/user.18fc402b.jpg"
+  }
+}
